@@ -1,5 +1,5 @@
 ### Node.JS Server with RSS Feed
-
+# Make sure you have the latest version of Node.js installed.
 ## Installation & Configuration:
 ```
 git clone https://github.com/dincadaniel146/rss-web-app
