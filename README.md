@@ -16,8 +16,6 @@ Install MongoDB Community Server ( make sure to install MongoDB Compass as well)
 ```
 Once installed, make a new connection to mongodb://localhost:27017 using MongoDB Compass
 ```
->App will load slow without database initialization!
-
 ## For starting the server:
 ```
 node app.js
